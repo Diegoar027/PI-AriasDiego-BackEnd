@@ -1,0 +1,21 @@
+#logoAP {
+  width: 120px;
+}
+
+img {
+  width: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.redes-sociales {
+  margin-right: 10px;
+}
+
+.redes-sociales img{
+  margin: 0.5px;
+}
