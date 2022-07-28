@@ -4,7 +4,9 @@
 
 div {
   text-align: center;
+  background: #F7F9F9;
 }
+
 
 .nombre {
   font-weight: bold;

@@ -1,6 +1,8 @@
 #logoAP {
-  width: 120px;
+  width: 130px;
+  margin-left: 20px;
 }
+
 
 img {
   width: 30px;
@@ -13,9 +15,13 @@ img {
 }
 
 .redes-sociales {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .redes-sociales img{
-  margin: 0.5px;
+  margin: 3px;
+}
+
+button{
+  margin-left: 10px;
 }
